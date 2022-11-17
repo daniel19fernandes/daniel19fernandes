@@ -4,8 +4,8 @@
 
 - 📃 Formado em Engenharia Mecânica
 - 🐞 Em transição para área de Quality Assurance
-- 🦾 Ultimamente, tenho aprendido e progredido sobre automação de testes
-- 🎈 Estou aberto a oportunidades na área de testes
+- 🦾 Ultimamente, tenho aprendido e progredido sobre Banco de Dados
+- 🎈 Estou aberto a oportunidades na área de testes e suporte
 
 #
 #
