@@ -3,8 +3,8 @@
 
 
 - 📃 Formado em Engenharia Mecânica
-- 🐞 Em transição para área de Quality Assurance
-- 🦾 Ultimamente, tenho aprendido e progredido sobre Banco de Dados
+- 🐞 Em transição para área de TI
+- 🦾 Ultimamente, tenho aprendido e progredido sobre a linguagem C#
 - 🎈 Estou aberto a oportunidades na área de testes e suporte
 
 #
